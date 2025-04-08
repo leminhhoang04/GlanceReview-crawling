@@ -1,0 +1,384 @@
+index,conference_name,acronym,rank,url
+11.0,"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",SIGCOMM,A*,https://portal.core.edu.au/conf-ranks/11/
+12.0,ACM Conference on Computer and Communications Security,CCS,A*,https://portal.core.edu.au/conf-ranks/12/
+13.0,ACM Conference on Computer Supported Cooperative Work,CSCW,A,https://portal.core.edu.au/conf-ranks/13/
+14.0,ACM Conference on Economics and Computation,EC,A*,https://portal.core.edu.au/conf-ranks/14/
+15.0,ACM Conference on Embedded Networked Sensor Systems,SENSYS,A*,https://portal.core.edu.au/conf-ranks/15/
+17.0,ACM Conference on Hypertext and Social Media,Hypertext,A,https://portal.core.edu.au/conf-ranks/17/
+18.0,ACM Conference on Object Oriented Programming Systems Languages and Applications,OOPSLA,A,https://portal.core.edu.au/conf-ranks/18/
+19.0,ACM Creativity and Cognition,CC,A,https://portal.core.edu.au/conf-ranks/19/
+22.0,ACM International Conference on Advances in Geographic Information Systems,SIGSPATIAL,A,https://portal.core.edu.au/conf-ranks/22/
+24.0,ACM International Conference on Emerging Networking Experiments and Technologies,CoNEXT,A,https://portal.core.edu.au/conf-ranks/24/
+25.0,ACM International Conference on Information and Knowledge Management,CIKM,A,https://portal.core.edu.au/conf-ranks/25/
+26.0,ACM International Conference on Knowledge Discovery and Data Mining,KDD,A*,https://portal.core.edu.au/conf-ranks/26/
+27.0,ACM International Conference on Mobile Computing and Networking,MOBICOM,A*,https://portal.core.edu.au/conf-ranks/27/
+28.0,ACM International Conference on Recommender Systems,RecSys,A,https://portal.core.edu.au/conf-ranks/28/
+29.0,ACM International Conference on Research and Development in Information Retrieval,SIGIR,A*,https://portal.core.edu.au/conf-ranks/29/
+30.0,ACM International Conference on Supercomputing,ICS,A,https://portal.core.edu.au/conf-ranks/30/
+31.0,ACM International Conference on Web Search and Data Mining,WSDM,A,https://portal.core.edu.au/conf-ranks/31/
+32.0,ACM International Symposium on Computer Architecture,ISCA,A*,https://portal.core.edu.au/conf-ranks/32/
+33.0,ACM International Symposium on High Performance Distributed Computing,HPDC,A,https://portal.core.edu.au/conf-ranks/33/
+37.0,ACM Multimedia,ACMMM,A*,https://portal.core.edu.au/conf-ranks/37/
+38.0,ACM SIG International Conference on Computer Graphics and Interactive Techniques,SIGGRAPH,A*,https://portal.core.edu.au/conf-ranks/38/
+39.0,Measurement and Modeling of Computer Systems,SIGMETRICS,A*,https://portal.core.edu.au/conf-ranks/39/
+41.0,ACM SIGCOMM Internet Measurement Conference,ACM IMC,A,https://portal.core.edu.au/conf-ranks/41/
+45.0,"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",Mobisys,A,https://portal.core.edu.au/conf-ranks/45/
+46.0,ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems,PODS,A*,https://portal.core.edu.au/conf-ranks/46/
+48.0,ACM SIGOPS Symposium on Operating Systems Principles,SOSP,A*,https://portal.core.edu.au/conf-ranks/48/
+52.0,"ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",FSE,A*,https://portal.core.edu.au/conf-ranks/52/
+55.0,ACM Special Interest Group on Computer Science Education Conference,SIGCSE,A,https://portal.core.edu.au/conf-ranks/55/
+56.0,ACM Special Interest Group on Management of Data Conference,SIGMOD,A*,https://portal.core.edu.au/conf-ranks/56/
+58.0,ACM Symposium on Mobile Ad Hoc Networking and Computing,MOBIHOC,A,https://portal.core.edu.au/conf-ranks/58/
+60.0,International Symposium on Computational Geometry,SoCG,A,https://portal.core.edu.au/conf-ranks/60/
+61.0,"Asia Conference on Information, Computer and Communications Security",AsiaCCS,A,https://portal.core.edu.au/conf-ranks/61/
+63.0,ACM Symposium on Principles of Distributed Computing,PODC,A*,https://portal.core.edu.au/conf-ranks/63/
+65.0,ACM Symposium on Theory of Computing,STOC,A*,https://portal.core.edu.au/conf-ranks/65/
+66.0,ACM Symposium on User Interface Software and Technology,UIST,A*,https://portal.core.edu.au/conf-ranks/66/
+67.0,ACM Virtual Reality Software and Technology,VRST,A,https://portal.core.edu.au/conf-ranks/67/
+76.0,"ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",MSWIM,A,https://portal.core.edu.au/conf-ranks/76/
+77.0,"International Conference for High Performance Computing, Networking, Storage and Analysis (was Supercomputing Conference)",SC,A,https://portal.core.edu.au/conf-ranks/77/
+79.0,ACM/IFIP/USENIX International Middleware Conference,Middleware,A,https://portal.core.edu.au/conf-ranks/79/
+80.0,ACM/SIAM Symposium on Discrete Algorithms,SODA,A*,https://portal.core.edu.au/conf-ranks/80/
+81.0,ACM/SPIE Multimedia Computing and Networking,MMCN,A,https://portal.core.edu.au/conf-ranks/81/
+82.0,ACM-SIGACT Symposium on Principles of Programming Languages,POPL,A*,https://portal.core.edu.au/conf-ranks/82/
+84.0,ACM-SIGPLAN Conference on Programming Language Design and Implementation,PLDI,A*,https://portal.core.edu.au/conf-ranks/84/
+94.0,Advances in Cryptology,CRYPTO,A*,https://portal.core.edu.au/conf-ranks/94/
+98.0,Advances in Neural Information Processing Systems (was NIPS),NeurIPS,A*,https://portal.core.edu.au/conf-ranks/98/
+111.0,American Association of Cost Engineers Annual Meeting,AACE,A,https://portal.core.edu.au/conf-ranks/111/
+112.0,American Federation of Information Processing Societies,AFIPS,A,https://portal.core.edu.au/conf-ranks/112/
+113.0,"American Society for Heating, Refrigeration and Air Conditioning",ASHRAE,A,https://portal.core.edu.au/conf-ranks/113/
+114.0,American Society of Mechanical Engineering,,A,https://portal.core.edu.au/conf-ranks/114/
+115.0,Americas Conference on Information Systems,AMCIS,A,https://portal.core.edu.au/conf-ranks/115/
+117.0,Annual Computer Security Applications Conference,ACSAC,A,https://portal.core.edu.au/conf-ranks/117/
+119.0,Annual Conference of the Australian Acoustical Society,,A,https://portal.core.edu.au/conf-ranks/119/
+123.0,Annual Conference of the International Speech Communication Association (was Eurospeech),Interspeech,A,https://portal.core.edu.au/conf-ranks/123/
+124.0,Conference on Learning Theory,COLT,A*,https://portal.core.edu.au/conf-ranks/124/
+130.0,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,,A,https://portal.core.edu.au/conf-ranks/130/
+137.0,"Annual Water Distribution Systems Analysis Conference, WDSA 2008",,A,https://portal.core.edu.au/conf-ranks/137/
+139.0,AoM Organizational Communication and Information Systems,OCIS,A,https://portal.core.edu.au/conf-ranks/139/
+141.0,Application of Computers and Operations Research in the Minerals Industries,APCOMin,A,https://portal.core.edu.au/conf-ranks/141/
+147.0,Architectural Support for Programming Languages and Operating Systems,ASPLOS,A*,https://portal.core.edu.au/conf-ranks/147/
+150.0,Artificial Intelligence in Medicine,AIIM,A,https://portal.core.edu.au/conf-ranks/150/
+153.0,ASCCS International Conference on Steel-Concrete Composite and Hybrid Structures,,A,https://portal.core.edu.au/conf-ranks/153/
+168.0,Asian Congress of Fluid Mechanics,,A,https://portal.core.edu.au/conf-ranks/168/
+173.0,Asian-Pacific Conference on Computational Mechanics,APCOM,A,https://portal.core.edu.au/conf-ranks/173/
+174.0,Asian-Pacific conferences on unsaturated soils,Unsat-Asian,A,https://portal.core.edu.au/conf-ranks/174/
+179.0,Asia-Pacific Conference on Engineering Plasticity and Its Applications,,A,https://portal.core.edu.au/conf-ranks/179/
+180.0,Asia-Pacific Conference on Materials Processing,,A,https://portal.core.edu.au/conf-ranks/180/
+191.0,Aspect-Oriented Software Development,AOSD,A,https://portal.core.edu.au/conf-ranks/191/
+192.0,Association for Computer Aided Design in Architecture (ACADIA) Conference,ACADIA,A,https://portal.core.edu.au/conf-ranks/192/
+196.0,Association for Computational Linguistics,ACL,A*,https://portal.core.edu.au/conf-ranks/196/
+197.0,Association of Researchers in Construction Management Annual Conference,ARCOM,A,https://portal.core.edu.au/conf-ranks/197/
+199.0,AUSIMM Orebody Modelling and Strategic Mine Planning Conference,,A,https://portal.core.edu.au/conf-ranks/199/
+200.0,AUSIMM Project Evaluation,,A,https://portal.core.edu.au/conf-ranks/200/
+202.0,Australasian Coasts and Ports Conference,,A,https://portal.core.edu.au/conf-ranks/202/
+218.0,Australasian Congress on Applied Mechanics,,A,https://portal.core.edu.au/conf-ranks/218/
+220.0,Australasian Fluid Mechanics Conference,,A,https://portal.core.edu.au/conf-ranks/220/
+221.0,Australasian Housing Researchers Conference,AHRC,A,https://portal.core.edu.au/conf-ranks/221/
+225.0,Australasian Port and Harbour Conference,,A,https://portal.core.edu.au/conf-ranks/225/
+232.0,Australasian Transport Research Forum,ATRF,A,https://portal.core.edu.au/conf-ranks/232/
+279.0,Automated Software Engineering Conference,ASE,A*,https://portal.core.edu.au/conf-ranks/279/
+287.0,Bluff Body Aerodynamics and Applications,,A,https://portal.core.edu.au/conf-ranks/287/
+296.0,British Machine Vision Conference,BMVC,A,https://portal.core.edu.au/conf-ranks/296/
+299.0,CAADFutures Biennial conference,CAADFutures,A,https://portal.core.edu.au/conf-ranks/299/
+307.0,Centre for Asian and Middle Eastern Architecture conference,CAMEA,A,https://portal.core.edu.au/conf-ranks/307/
+314.0,CIRP Life Cycle Engineering Conference,,A,https://portal.core.edu.au/conf-ranks/314/
+325.0,"Composite Construction V, Kruger National Park, South Africa, American Society of Civil Engineers",,A,https://portal.core.edu.au/conf-ranks/325/
+331.0,Computer Aided Verification,CAV,A*,https://portal.core.edu.au/conf-ranks/331/
+334.0,Computer Applications in The Mineral Industries,APCOM,A,https://portal.core.edu.au/conf-ranks/334/
+338.0,Computers in Cardiology,,A,https://portal.core.edu.au/conf-ranks/338/
+343.0,Conference and Symposium of the International Committee on Aeronautical Fatigue,,A,https://portal.core.edu.au/conf-ranks/343/
+346.0,Conference in Uncertainty in Artificial Intelligence,UAI,A,https://portal.core.edu.au/conf-ranks/346/
+369.0,Conference on Innovative Data Systems Research,CIDR,A,https://portal.core.edu.au/conf-ranks/369/
+370.0,Conference on Integer Programming and Combinatorial Optimization,IPCO,A,https://portal.core.edu.au/conf-ranks/370/
+376.0,Conference on Railway Engineering,,A,https://portal.core.edu.au/conf-ranks/376/
+387.0,Congress of the Modelling and Simulation Society of Australia and New Zealand,Modsim 03,A,https://portal.core.edu.au/conf-ranks/387/
+395.0,Construction Management and Economics Conference,CME 25,A,https://portal.core.edu.au/conf-ranks/395/
+397.0,Contact Mechanics,,A,https://portal.core.edu.au/conf-ranks/397/
+401.0,Corrosion and Prevention,,A,https://portal.core.edu.au/conf-ranks/401/
+415.0,Design and Emotion Society Conferences,D&amp;E,A,https://portal.core.edu.au/conf-ranks/415/
+417.0,Design Computing and Cognition,DCC,A,https://portal.core.edu.au/conf-ranks/417/
+422.0,Designing Interactive Systems,DIS,A,https://portal.core.edu.au/conf-ranks/422/
+448.0,Empirical Methods in Natural Language Processing,EMNLP,A*,https://portal.core.edu.au/conf-ranks/448/
+468.0,European Association for Computational Linguistics,EACL,A,https://portal.core.edu.au/conf-ranks/468/
+473.0,European Conference on Artificial Intelligence,ECAI,A,https://portal.core.edu.au/conf-ranks/473/
+477.0,European Conference on Computational Mechanics,ECCM,A,https://portal.core.edu.au/conf-ranks/477/
+479.0,European Conference on Computer Vision,ECCV,A*,https://portal.core.edu.au/conf-ranks/479/
+483.0,European Conference on Information Retrieval,ECIR,A,https://portal.core.edu.au/conf-ranks/483/
+484.0,European Conference on Information Systems,ECIS,A,https://portal.core.edu.au/conf-ranks/484/
+486.0,European Conference on Machine Learning (Joined with PKDD from 2008),ECML,A,https://portal.core.edu.au/conf-ranks/486/
+487.0,European Conference on Numerical Methods in Geotechnical Engineering,NUMGE,A,https://portal.core.edu.au/conf-ranks/487/
+488.0,European Conference on Object-Oriented Programming,ECOOP,A,https://portal.core.edu.au/conf-ranks/488/
+491.0,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),ECML PKDD,A,https://portal.core.edu.au/conf-ranks/491/
+494.0,Interspeech (combined EuroSpeech and ICSLP in 2000),Interspeech,A,https://portal.core.edu.au/conf-ranks/494/
+499.0,European Graphics Conference,EUROGRAPH,A,https://portal.core.edu.au/conf-ranks/499/
+511.0,European Symposium on Algorithms,ESA,A,https://portal.core.edu.au/conf-ranks/511/
+514.0,European Symposium on Programming,ESOP,A,https://portal.core.edu.au/conf-ranks/514/
+515.0,European Symposium On Research In Computer Security,ESORICS,A,https://portal.core.edu.au/conf-ranks/515/
+517.0,European Turbulence Conference,,A,https://portal.core.edu.au/conf-ranks/517/
+525.0,Eurosys Conference,EuroSys,A,https://portal.core.edu.au/conf-ranks/525/
+526.0,"Experiential Knowledge SIG conferences (Design Research Society (DRS) SIG,UK)",,A,https://portal.core.edu.au/conf-ranks/526/
+528.0,Extending Database Technology,EDBT,A,https://portal.core.edu.au/conf-ranks/528/
+531.0,FIE Frontiers in Education,,A,https://portal.core.edu.au/conf-ranks/531/
+533.0,Financial Cryptography and Data Security Conference,FC,A,https://portal.core.edu.au/conf-ranks/533/
+540.0,International Symposium on Formal Methods (was Formal Methods Europe FME),FM,A,https://portal.core.edu.au/conf-ranks/540/
+546.0,Foundations of Genetic Algorithms,FOGA,A,https://portal.core.edu.au/conf-ranks/546/
+547.0,Foundations of Software Science and Computational Structures,FOSSACS,A,https://portal.core.edu.au/conf-ranks/547/
+556.0,Genetic and Evolutionary Computations,GECCO,A,https://portal.core.edu.au/conf-ranks/556/
+557.0,Geo congress of the Geo-Institute of ASCE,,A,https://portal.core.edu.au/conf-ranks/557/
+561.0,GeoShanghai International Conferences,GeoShanghai,A,https://portal.core.edu.au/conf-ranks/561/
+572.0,Graph Drawing,GD,A,https://portal.core.edu.au/conf-ranks/572/
+575.0,Hawaii International Conference on System Sciences,HICSS,A,https://portal.core.edu.au/conf-ranks/575/
+577.0,Healthy Buildings,HB,A,https://portal.core.edu.au/conf-ranks/577/
+582.0,Hong Kong Institute of Value Management Conference,HKIVM,A,https://portal.core.edu.au/conf-ranks/582/
+588.0,IASTED International Conference on Biomedical Engineering,,A,https://portal.core.edu.au/conf-ranks/588/
+589.0,IASTED Telehealth and Assistive Technology,,A,https://portal.core.edu.au/conf-ranks/589/
+597.0,IEEE Computational Systems Bioinformatics Conference,CSB,A,https://portal.core.edu.au/conf-ranks/597/
+599.0,IEEE Computer Security Foundations Symposium (was CSFW),CSF,A,https://portal.core.edu.au/conf-ranks/599/
+600.0,IEEE Conference in Industrial Electronics and Applications,,A,https://portal.core.edu.au/conf-ranks/600/
+602.0,IEEE Conference on Computational Complexity,CCC,A,https://portal.core.edu.au/conf-ranks/602/
+604.0,IEEE Conference on Computer Vision and Pattern Recognition,CVPR,A*,https://portal.core.edu.au/conf-ranks/604/
+605.0,IEEE Conference on Decision and Control,CDC,A,https://portal.core.edu.au/conf-ranks/605/
+609.0,"IEEE Conference on Robotics, Automation and Mechatronics",,A,https://portal.core.edu.au/conf-ranks/609/
+617.0,IEEE EMBS Neural Engineering Conference,,A,https://portal.core.edu.au/conf-ranks/617/
+623.0,IEEE Information Visualization Conference,IEEE InfoVis,A*,https://portal.core.edu.au/conf-ranks/623/
+638.0,IEEE International Conference on Computer Vision,ICCV,A*,https://portal.core.edu.au/conf-ranks/638/
+642.0,IEEE International Conference on Data Mining,ICDM,A*,https://portal.core.edu.au/conf-ranks/642/
+664.0,IEEE International Conference on Multimedia and Expo,ICME,A,https://portal.core.edu.au/conf-ranks/664/
+669.0,IEEE International Conference on Pervasive Computing and Communications,PERCOM,A*,https://portal.core.edu.au/conf-ranks/669/
+672.0,IEEE International Conference on Robots and Automation,,A,https://portal.core.edu.au/conf-ranks/672/
+676.0,"IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",ICSME,A,https://portal.core.edu.au/conf-ranks/676/
+678.0,IEEE International Conference on Web Services,ICWS,A,https://portal.core.edu.au/conf-ranks/678/
+688.0,IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP),IPDPS,A,https://portal.core.edu.au/conf-ranks/688/
+690.0,IEEE International Requirements Engineering Conference,RE,A,https://portal.core.edu.au/conf-ranks/690/
+694.0,IEEE International Symposium on Biomedical Imaging,,A,https://portal.core.edu.au/conf-ranks/694/
+711.0,IEEE International Working Conference on Mining Software Repositories,MSR,A,https://portal.core.edu.au/conf-ranks/711/
+725.0,IEEE Real-Time and Embedded Technology and Applications Symposium,RTAS,A,https://portal.core.edu.au/conf-ranks/725/
+745.0,IEEE Symposium on Foundations of Computer Science,FOCS,A*,https://portal.core.edu.au/conf-ranks/745/
+748.0,IEEE Symposium on Logic in Computer Science,LICS,A*,https://portal.core.edu.au/conf-ranks/748/
+750.0,IEEE Symposium on Security and Privacy,SP,A*,https://portal.core.edu.au/conf-ranks/750/
+753.0,IEEE Symposium on VLSI Circuits,VLSIC,A,https://portal.core.edu.au/conf-ranks/753/
+758.0,IEEE Conference on Virtual Reality and 3D User Interfaces,VR,A*,https://portal.core.edu.au/conf-ranks/758/
+759.0,IEEE Visualization,IEEE VIS,A,https://portal.core.edu.au/conf-ranks/759/
+763.0,IEEE Workshop on Applications of Computer Vision,WACV,A,https://portal.core.edu.au/conf-ranks/763/
+780.0,IEEE World Congress on Computational Intelligence,WCCI,A,https://portal.core.edu.au/conf-ranks/780/
+783.0,IEEE/ACM International Conference on Computer-Aided Design,ICCAD,A,https://portal.core.edu.au/conf-ranks/783/
+784.0,IEEE/ACM International Conference on Grid Computing,GRID,A,https://portal.core.edu.au/conf-ranks/784/
+785.0,IEEE/ACM International Symposium on Mixed and Augmented Reality,ISMAR,A*,https://portal.core.edu.au/conf-ranks/785/
+787.0,IEEE/IFIP International Conference on Dependable Systems and Networks,DSN,A,https://portal.core.edu.au/conf-ranks/787/
+791.0,International Conference on Software Architecture (was previously WICSA),ICSA,A,https://portal.core.edu.au/conf-ranks/791/
+792.0,IEEE/RSJ International Conference on Intelligent Robots and Systems,IROS,A,https://portal.core.edu.au/conf-ranks/792/
+818.0,Indoor Air,IA,A,https://portal.core.edu.au/conf-ranks/818/
+823.0,Information Processing in Sensor Networks,IPSN,A*,https://portal.core.edu.au/conf-ranks/823/
+864.0,International Colloquium on Automata Languages and Programming,ICALP,A,https://portal.core.edu.au/conf-ranks/864/
+872.0,International Computing Education Research Workshop,ICER,A,https://portal.core.edu.au/conf-ranks/872/
+875.0,"International Conference for Bulk Materials Storage, Handling and Transportation",,A,https://portal.core.edu.au/conf-ranks/875/
+878.0,International Conference in Business Process Management,BPM,A,https://portal.core.edu.au/conf-ranks/878/
+881.0,International Conference of the International Association for Computer Methods and Advances in Geomechanics,IACMAG,A,https://portal.core.edu.au/conf-ranks/881/
+891.0,International Conference on Advanced Information Systems Engineering,CaiSE,A,https://portal.core.edu.au/conf-ranks/891/
+894.0,International Conference on Advances and Trends in Engineering Materials and Their Applications,,A,https://portal.core.edu.au/conf-ranks/894/
+898.0,International Conference on Advances in Materials and Processing Technologies,,A,https://portal.core.edu.au/conf-ranks/898/
+903.0,International Conference On Agile Manufacturing,,A,https://portal.core.edu.au/conf-ranks/903/
+908.0,"International Conference on Application-specific Systems, Architectures and Processors",ASAP,A,https://portal.core.edu.au/conf-ranks/908/
+913.0,International Conference on Artificial Intelligence and Statistics,AISTATS,A,https://portal.core.edu.au/conf-ranks/913/
+918.0,International Conference on Automated Deduction,CADE,A,https://portal.core.edu.au/conf-ranks/918/
+919.0,International Conference on Automated Planning and Scheduling,ICAPS,A*,https://portal.core.edu.au/conf-ranks/919/
+922.0,"International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",AAMAS,A*,https://portal.core.edu.au/conf-ranks/922/
+930.0,"International Conference on Civil, Structural and Environmental Engineering Computing",CIVIL-COMP,A,https://portal.core.edu.au/conf-ranks/930/
+932.0,International Conference on Coastal Engineering,,A,https://portal.core.edu.au/conf-ranks/932/
+940.0,International Conference on Composite Materials,,A,https://portal.core.edu.au/conf-ranks/940/
+951.0,International Conference on Computational Plasticity,COMPLAS,A,https://portal.core.edu.au/conf-ranks/951/
+968.0,International Conference on Computers in Urban Planning and Urban Management,CUPUM,A,https://portal.core.edu.au/conf-ranks/968/
+971.0,International Conference on Conceptual Modelling,ER,A,https://portal.core.edu.au/conf-ranks/971/
+973.0,International Conference on Concurrency Theory,CONCUR,A,https://portal.core.edu.au/conf-ranks/973/
+986.0,International Conference on Data Engineering,ICDE,A*,https://portal.core.edu.au/conf-ranks/986/
+989.0,International Conference on Database Theory,ICDT,A,https://portal.core.edu.au/conf-ranks/989/
+993.0,International Conference on Design Science Research in Information Systems and Technology,DESRIST,A,https://portal.core.edu.au/conf-ranks/993/
+994.0,International Conference on Design Theory and Methodology (ASME),DTM,A,https://portal.core.edu.au/conf-ranks/994/
+1002.0,International Conference on Distributed Computing Systems,ICDCS,A,https://portal.core.edu.au/conf-ranks/1002/
+1015.0,International Conference on Enhancement and Promotion of Computational Methods in Engineering and Science,,A,https://portal.core.edu.au/conf-ranks/1015/
+1020.0,International Conference on Environmental Systems,ICES,A,https://portal.core.edu.au/conf-ranks/1020/
+1021.0,International conference on ER fluids and MR suspensions,,A,https://portal.core.edu.au/conf-ranks/1021/
+1022.0,International Conference on Evaluation and Assessment in Software Engineering,EASE,A,https://portal.core.edu.au/conf-ranks/1022/
+1027.0,International Conference on Fast Sea Transportation,,A,https://portal.core.edu.au/conf-ranks/1027/
+1028.0,International Conference on Field and Service Robotics,FSR,A,https://portal.core.edu.au/conf-ranks/1028/
+1034.0,International Conference on Foundation on Data Organization,FODO,A,https://portal.core.edu.au/conf-ranks/1034/
+1037.0,International Conference on Functional Programming,ICFP,A,https://portal.core.edu.au/conf-ranks/1037/
+1051.0,International Conference on High Performance Yacht Design,,A,https://portal.core.edu.au/conf-ranks/1051/
+1053.0,International Conference on Human Factors in Computing Systems,CHI,A*,https://portal.core.edu.au/conf-ranks/1053/
+1063.0,"International Conference on Indoor Air Quality, Ventilation and Energy Conservation in Buildings",IAQVEC,A,https://portal.core.edu.au/conf-ranks/1063/
+1078.0,International Conference on Information Systems,ICIS,A*,https://portal.core.edu.au/conf-ranks/1078/
+1080.0,International Conference on Information Systems Development,ISD,A,https://portal.core.edu.au/conf-ranks/1080/
+1101.0,International Conference on Intelligent User Interfaces,IUI,A,https://portal.core.edu.au/conf-ranks/1101/
+1116.0,International Conference on Leading Edge Manufacturing in 21st Century,,A,https://portal.core.edu.au/conf-ranks/1116/
+1118.0,International Conference on Liquid Atomization and Spray Systems,,A,https://portal.core.edu.au/conf-ranks/1118/
+1119.0,International Conference on Logic Programming,ICLP,A,https://portal.core.edu.au/conf-ranks/1119/
+1121.0,International Conference on Machine Learning,ICML,A*,https://portal.core.edu.au/conf-ranks/1121/
+1130.0,International Conference on Metal Forming,,A,https://portal.core.edu.au/conf-ranks/1130/
+1135.0,International Conference on Modal Analysis,,A,https://portal.core.edu.au/conf-ranks/1135/
+1138.0,International Conference on Modelling and Diagnostics For Advanced Engine Systems,,A,https://portal.core.edu.au/conf-ranks/1138/
+1154.0,International Conference on New Forming Technology,,A,https://portal.core.edu.au/conf-ranks/1154/
+1158.0,International Conference on Numerical Methods in Industrial Forming Processes,,A,https://portal.core.edu.au/conf-ranks/1158/
+1159.0,"International Conference on Ocean, Offshore and Arctic Engineering",,A,https://portal.core.edu.au/conf-ranks/1159/
+1171.0,International Conference on Pervasive Computing (Joined with UbiComp from 2013),PERVASIVE,A*,https://portal.core.edu.au/conf-ranks/1171/
+1174.0,International Conference on Pressure Surges,,A,https://portal.core.edu.au/conf-ranks/1174/
+1175.0,International Conference on Principles and Practice of Constraint Programming,CP,A,https://portal.core.edu.au/conf-ranks/1175/
+1181.0,"IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",ICPC,A,https://portal.core.edu.au/conf-ranks/1181/
+1199.0,International Conference on Security in Pervasive Computing,ICSPC,A,https://portal.core.edu.au/conf-ranks/1199/
+1204.0,International Conference on Service Oriented Computing,ICSOC,A,https://portal.core.edu.au/conf-ranks/1204/
+1209.0,International Conference on Software Engineering,ICSE,A*,https://portal.core.edu.au/conf-ranks/1209/
+1221.0,"International Conference on Software Testing, Verification and Validation",ICST,A,https://portal.core.edu.au/conf-ranks/1221/
+1222.0,International Conference on Soil Mechanics and Geotechnical Engineering,ICSMGE,A,https://portal.core.edu.au/conf-ranks/1222/
+1224.0,International Conference on Steel Rolling,,A,https://portal.core.edu.au/conf-ranks/1224/
+1225.0,International Conference on Structural Health Monitoring of Intelligent Infrastructure,,A,https://portal.core.edu.au/conf-ranks/1225/
+1226.0,International Conference on Surface Finishing Technology and Surface Engineering,ICSFT2008,A,https://portal.core.edu.au/conf-ranks/1226/
+1227.0,International Conference on Sustainability in Energy and Buildings,SEB,A,https://portal.core.edu.au/conf-ranks/1227/
+1233.0,International Conference on Technology of Plasticity,,A,https://portal.core.edu.au/conf-ranks/1233/
+1235.0,International Conference on Temporal Logic,ICTL,A,https://portal.core.edu.au/conf-ranks/1235/
+1239.0,International Conference on the Principles of Knowledge Representation and Reasoning,KR,A*,https://portal.core.edu.au/conf-ranks/1239/
+1242.0,International Conference on the Theory and Application of Cryptographic Techniques,EuroCrypt,A*,https://portal.core.edu.au/conf-ranks/1242/
+1243.0,International Conference on the Theory and Application of Cryptology and Information Security,ASIACRYPT,A,https://portal.core.edu.au/conf-ranks/1243/
+1244.0,"International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)",MODELS,A,https://portal.core.edu.au/conf-ranks/1244/
+1245.0,"Conference on Interactive Theorem Proving (previously TPHOLs, changed in 2009)",ITP,A,https://portal.core.edu.au/conf-ranks/1245/
+1250.0,International Conference on Theory and Applications of Satisfiability Testing,SAT,A,https://portal.core.edu.au/conf-ranks/1250/
+1256.0,International conference on unsaturated soils,Unsat,A,https://portal.core.edu.au/conf-ranks/1256/
+1257.0,International Conference on Urban Drainage,,A,https://portal.core.edu.au/conf-ranks/1257/
+1261.0,International Conference on Very Large Databases,VLDB,A*,https://portal.core.edu.au/conf-ranks/1261/
+1274.0,International Conference on Wind Engineering,,A,https://portal.core.edu.au/conf-ranks/1274/
+1281.0,International Conferences on Advances in Steel Structures,,A,https://portal.core.edu.au/conf-ranks/1281/
+1282.0,International Conferences on Progress of Machining Technology,,A,https://portal.core.edu.au/conf-ranks/1282/
+1287.0,International Congress of Theoretical and Applied Mechanics,,A,https://portal.core.edu.au/conf-ranks/1287/
+1289.0,International Congress on Fracture,,A,https://portal.core.edu.au/conf-ranks/1289/
+1293.0,International Corrosion Congress,,A,https://portal.core.edu.au/conf-ranks/1293/
+1294.0,"International Council for Research and Innovation in Building and Construction (CIB) Meetings, Workshops, Symposia, Conferences",CIB,A,https://portal.core.edu.au/conf-ranks/1294/
+1298.0,International Fatigue Congress,,A,https://portal.core.edu.au/conf-ranks/1298/
+1299.0,International Ferroalloy Congress,,A,https://portal.core.edu.au/conf-ranks/1299/
+1304.0,International Geostatistics Congress,,A,https://portal.core.edu.au/conf-ranks/1304/
+1305.0,International Group for Lean Construction Conference,IGLC,A,https://portal.core.edu.au/conf-ranks/1305/
+1306.0,International Heavy Haul Association Conference,,A,https://portal.core.edu.au/conf-ranks/1306/
+1307.0,International Heavy Haul Conference,,A,https://portal.core.edu.au/conf-ranks/1307/
+1313.0,International Joint Conference on Artificial Intelligence,IJCAI,A*,https://portal.core.edu.au/conf-ranks/1313/
+1314.0,International Joint Conference on Automated Reasoning,IJCAR,A,https://portal.core.edu.au/conf-ranks/1314/
+1318.0,International Joint Conference on Qualitative and Quantitative Practical Reasoning,ESQARU,A,https://portal.core.edu.au/conf-ranks/1318/
+1325.0,International Mineral Processing Congress,,A,https://portal.core.edu.au/conf-ranks/1325/
+1332.0,International Pipeline Conference,,A,https://portal.core.edu.au/conf-ranks/1332/
+1336.0,International Research Council on the Biomechanics of Impact,,A,https://portal.core.edu.au/conf-ranks/1336/
+1338.0,International Semantic Web Conference,ISWC,A,https://portal.core.edu.au/conf-ranks/1338/
+1339.0,International Society of Rock Mechanics Series of Symposia and Conferences,ISRM,A,https://portal.core.edu.au/conf-ranks/1339/
+1342.0,International Symposium of Automation and Robotics in Construction,,A,https://portal.core.edu.au/conf-ranks/1342/
+1344.0,International Symposium on Active Control of Sound and Vibration,,A,https://portal.core.edu.au/conf-ranks/1344/
+1346.0,International Symposium on Advanced Technology for Plasticity,,A,https://portal.core.edu.au/conf-ranks/1346/
+1347.0,International Symposium on Advances in Abrasive Technology,,A,https://portal.core.edu.au/conf-ranks/1347/
+1349.0,International Symposium on Algorithms and Computation,ISAAC,A,https://portal.core.edu.au/conf-ranks/1349/
+1362.0,International Symposium on Code Generation and Optimization,CGO,A,https://portal.core.edu.au/conf-ranks/1362/
+1365.0,International Symposium on Combustion,,A,https://portal.core.edu.au/conf-ranks/1365/
+1367.0,International Symposium on Computational Geomechanics,,A,https://portal.core.edu.au/conf-ranks/1367/
+1374.0,International Symposium on Distributed Computing (was WDAG),DISC,A,https://portal.core.edu.au/conf-ranks/1374/
+1376.0,International Symposium on Empirical Software Engineering and Measurement,ESEM,A,https://portal.core.edu.au/conf-ranks/1376/
+1386.0,International Symposium on High Performance Computer Architecture,HPCA,A*,https://portal.core.edu.au/conf-ranks/1386/
+1398.0,International Symposium on Mathematical Foundations of Computer Science,MFCS,A,https://portal.core.edu.au/conf-ranks/1398/
+1407.0,International Symposium on Plasticity and Its Current Applications,,A,https://portal.core.edu.au/conf-ranks/1407/
+1408.0,"The International Symposium on Research in Attacks, Intrusions and Defenses (was International Symposium on Recent Advances in Intrusion Detection)",RAID,A,https://portal.core.edu.au/conf-ranks/1408/
+1409.0,International Symposium on Robotics,ISR,A,https://portal.core.edu.au/conf-ranks/1409/
+1411.0,International Symposium on Software Reliability Engineering,ISSRE,A,https://portal.core.edu.au/conf-ranks/1411/
+1412.0,International Symposium on Software Testing and Analysis,ISSTA,A,https://portal.core.edu.au/conf-ranks/1412/
+1420.0,International Symposium on Symbolic and Algebraic Computation,ISSAC,A,https://portal.core.edu.au/conf-ranks/1420/
+1426.0,International Symposium on Theoretical Aspects of Computer Science,STACS,A,https://portal.core.edu.au/conf-ranks/1426/
+1428.0,International Symposium on Vehicle System Dynamics,,A,https://portal.core.edu.au/conf-ranks/1428/
+1433.0,International Towing Tank Conference,,A,https://portal.core.edu.au/conf-ranks/1433/
+1434.0,International Tribology Conference in Australia,,A,https://portal.core.edu.au/conf-ranks/1434/
+1442.0,Privacy Enhancing Technologies Symposium (was International Workshop of Privacy Enhancing Technologies),PETS,A,https://portal.core.edu.au/conf-ranks/1442/
+1451.0,International Workshop on Approximation Algorithms for Combinatorial Optimization Problems and International Conference on Randomization and Computation,APPROX/RANDOM,A,https://portal.core.edu.au/conf-ranks/1451/
+1515.0,International Workshop on Precipitation in Urban Areas,,A,https://portal.core.edu.au/conf-ranks/1515/
+1518.0,International Workshop on Randomization and Computation,RANDOM,A,https://portal.core.edu.au/conf-ranks/1518/
+1548.0,International World Wide Web Conference,WWW,A*,https://portal.core.edu.au/conf-ranks/1548/
+1551.0,Internet Measurement Conference,IMC,A,https://portal.core.edu.au/conf-ranks/1551/
+1560.0,IUTAM Symposia series,,A,https://portal.core.edu.au/conf-ranks/1560/
+1561.0,IWA World Water Congress,,A,https://portal.core.edu.au/conf-ranks/1561/
+1578.0,JSME/ASME International Conference on Materials and Processing,,A,https://portal.core.edu.au/conf-ranks/1578/
+1598.0,"Logics in Artificial Intelligence, European Conference",JELIA,A,https://portal.core.edu.au/conf-ranks/1598/
+1607.0,Medical Image Computing and Computer-Assisted Intervention,MICCAI,A,https://portal.core.edu.au/conf-ranks/1607/
+1613.0,"Mini-EURO Conference, Managing Uncertainty in Decision Support Models",,A,https://portal.core.edu.au/conf-ranks/1613/
+1619.0,Modelling and Simulation,,A,https://portal.core.edu.au/conf-ranks/1619/
+1624.0,NACE International - Corrosion,,A,https://portal.core.edu.au/conf-ranks/1624/
+1629.0,National Conference of the American Association for Artificial Intelligence,AAAI,A*,https://portal.core.edu.au/conf-ranks/1629/
+1639.0,Network for Comfort and Energy Use in Buildings Windsor Conference,Windsor,A,https://portal.core.edu.au/conf-ranks/1639/
+1648.0,North American Association for Computational Linguistics,NAACL,A,https://portal.core.edu.au/conf-ranks/1648/
+1652.0,Numerical Models in Geomechanics,NUMOG,A,https://portal.core.edu.au/conf-ranks/1652/
+1657.0,Pacific Asia Conference on Information Systems,PACIS,A,https://portal.core.edu.au/conf-ranks/1657/
+1665.0,Pacific Rim Real Estate Conference,PPRES,A,https://portal.core.edu.au/conf-ranks/1665/
+1676.0,Parallel Problem Solving from Nature,PPSN,A,https://portal.core.edu.au/conf-ranks/1676/
+1679.0,Passive and Low Energy Architecture (PLEA) Annual International Conference,PLEA,A,https://portal.core.edu.au/conf-ranks/1679/
+1681.0,Portland International Center for Management of Engineering and Technology Conference,PICMET,A,https://portal.core.edu.au/conf-ranks/1681/
+1684.0,Powders and Grains,,A,https://portal.core.edu.au/conf-ranks/1684/
+1694.0,Proceedings MIT Conferences on Computational Solid and Fluid Mechanics,,A,https://portal.core.edu.au/conf-ranks/1694/
+1701.0,Real Time Systems Symposium,RTSS,A*,https://portal.core.edu.au/conf-ranks/1701/
+1704.0,Research in Engineering Education Symposium,REES,A,https://portal.core.edu.au/conf-ranks/1704/
+1706.0,RICS conference,COBRA,A,https://portal.core.edu.au/conf-ranks/1706/
+1727.0,SIAM International Conference on Data Mining,SDM,A,https://portal.core.edu.au/conf-ranks/1727/
+1735.0,Sixth International Conference on Hydroinformatics 2004,,A,https://portal.core.edu.au/conf-ranks/1735/
+1738.0,"Society of Architectural Historians, Australia and New Zealand (SAHANZ) Annual Conference",SAHANZ,A,https://portal.core.edu.au/conf-ranks/1738/
+1758.0,SPIE Smart Structures and Materials and Non-destructive Evaluation and Health Monitoring,,A,https://portal.core.edu.au/conf-ranks/1758/
+1760.0,Stapp Car Crash Conference,,A,https://portal.core.edu.au/conf-ranks/1760/
+1761.0,State of Australian Cities (SOAC) Conference,SOAC,A,https://portal.core.edu.au/conf-ranks/1761/
+1770.0,Symposia on VLSI Technology and Circuits,VLSI,A,https://portal.core.edu.au/conf-ranks/1770/
+1773.0,Symposium on ‘Building Simulation in the Southwest of England’,IBPSA,A,https://portal.core.edu.au/conf-ranks/1773/
+1785.0,Symposium on High Performance Chips,HOT CHIPS,A,https://portal.core.edu.au/conf-ranks/1785/
+1813.0,The World Conference on Titanium,,A,https://portal.core.edu.au/conf-ranks/1813/
+1814.0,Theoretical Aspects of Rationality and Knowledge,TARK,A,https://portal.core.edu.au/conf-ranks/1814/
+1815.0,Theory of Cryptography Conference,TCC,A,https://portal.core.edu.au/conf-ranks/1815/
+1818.0,Tools and Algorithms for Construction and Analysis of Systems,TACAS,A,https://portal.core.edu.au/conf-ranks/1818/
+1821.0,Transportation Research Board (USA) Annual Meeting,TRB,A,https://portal.core.edu.au/conf-ranks/1821/
+1823.0,Turbulence and Shear Flow Phenomena,,A,https://portal.core.edu.au/conf-ranks/1823/
+1838.0,Usenix Annual Technical Conference,USENIX,A,https://portal.core.edu.au/conf-ranks/1838/
+1839.0,Conference on File and Storage Technologies,FAST,A,https://portal.core.edu.au/conf-ranks/1839/
+1840.0,Usenix Network and Distributed System Security Symposium,NDSS,A*,https://portal.core.edu.au/conf-ranks/1840/
+1841.0,Usenix Security Symposium,USENIX-Security,A*,https://portal.core.edu.au/conf-ranks/1841/
+1842.0,Usenix Symposium on Operating Systems Design and Implementation,OSDI,A*,https://portal.core.edu.au/conf-ranks/1842/
+1845.0,USENIX Workshop on Hot Topics in Operating Systems,HotOS,A,https://portal.core.edu.au/conf-ranks/1845/
+1859.0,Water Down Under 2008 (incorporating the 31st Hydrology and Water Resources Symposium and the 4th International Conference on Water Resources and Environment Research),,A,https://portal.core.edu.au/conf-ranks/1859/
+1870.0,Workshop on Algorithm Engineering and Experiments,ALENEX,A,https://portal.core.edu.au/conf-ranks/1870/
+1894.0,Workshop on Cryptographic Hardware and Embedded Systems,CHES,A,https://portal.core.edu.au/conf-ranks/1894/
+1942.0,World Conference on Transport Research,WCTR,A,https://portal.core.edu.au/conf-ranks/1942/
+1944.0,World Congress on Computational Mechanics,WCCM,A,https://portal.core.edu.au/conf-ranks/1944/
+1960.0,International Conference on AI in Design,AID,A,https://portal.core.edu.au/conf-ranks/1960/
+1961.0,International Conference on Artificial Intelligence in Education,AIED,A,https://portal.core.edu.au/conf-ranks/1961/
+1976.0,Annual conference of American Society for Information Science and Technology,ASIS&amp;T,A,https://portal.core.edu.au/conf-ranks/1976/
+1994.0,IEEE Computer Security Foundations Workshop,CSFW,A,https://portal.core.edu.au/conf-ranks/1994/
+2004.0,Deductive and Object-Oriented Databases,DOOD,A,https://portal.core.edu.au/conf-ranks/2004/
+2011.0,Engineering Applications of Artifical Intelligence ,EAAI,A,https://portal.core.edu.au/conf-ranks/2011/
+2040.0,International Conference of Asian Digital Libraries,ICADL,A,https://portal.core.edu.au/conf-ranks/2040/
+2045.0,IEEE International Conference on Computer Languages,ICCL,A,https://portal.core.edu.au/conf-ranks/2045/
+2047.0,IEEE International Conference on Document Analysis and Recognition,ICDAR,A,https://portal.core.edu.au/conf-ranks/2047/
+2050.0,International Conference on Multi Agent Systems,ICMAS,A,https://portal.core.edu.au/conf-ranks/2050/
+2051.0,IEEE International Conference on Robotics and Automation,ICRA,A*,https://portal.core.edu.au/conf-ranks/2051/
+2052.0,International Computer Symposium Conference,ICSC2,A,https://portal.core.edu.au/conf-ranks/2052/
+2063.0,IEEE International Conference on Multimedia Computing and Systems,ICMCS,A,https://portal.core.edu.au/conf-ranks/2063/
+2064.0,IEEE Transactions on Knowledge and Data Engineering,IEEETKDE,A,https://portal.core.edu.au/conf-ranks/2064/
+2069.0,International Logic Programming Symposium,ILPS,A,https://portal.core.edu.au/conf-ranks/2069/
+2074.0,IEEE International Conference on Computer Communications,INFOCOM,A*,https://portal.core.edu.au/conf-ranks/2074/
+2081.0,IEEE International Solid-State Circuits Conference,ISSCC,A,https://portal.core.edu.au/conf-ranks/2081/
+2082.0,Israel Symposium on Theory of Computing and Systems,ISTCS,A,https://portal.core.edu.au/conf-ranks/2082/
+2085.0,ACM Conference on Digital Libraries ,JCDL,A*,https://portal.core.edu.au/conf-ranks/2085/
+2093.0,Symposium on Frontiers of Massively Parallel Processing,MassPar,A,https://portal.core.edu.au/conf-ranks/2093/
+2104.0,"Net Object Days (Includings MATES, ENASE etc.)",MATES ENASE,A,https://portal.core.edu.au/conf-ranks/2104/
+2105.0,Network Storage Symposium,NetStore,A,https://portal.core.edu.au/conf-ranks/2105/
+2110.0,IEEE Conference on Open Architecture and Network Programming,OPENARCH,A,https://portal.core.edu.au/conf-ranks/2110/
+2120.0,Performance Tools - International Conference on Model Techniques &amp; Tools for CPE,PT,A,https://portal.core.edu.au/conf-ranks/2120/
+2123.0,International Conference on Rewriting Techniques and Applications (now merged with FSCD Formal Structures for Computation and Deduction),RTA,A,https://portal.core.edu.au/conf-ranks/2123/
+2124.0,Unix Symposium on Operating Systems Design and Implementation ,SDSDI,A,https://portal.core.edu.au/conf-ranks/2124/
+2135.0,IEEE International Symposium on Software Metrics ,SMS,A,https://portal.core.edu.au/conf-ranks/2135/
+2137.0,ACM Symposium on Software Reusability ,SSR,A,https://portal.core.edu.au/conf-ranks/2137/
+2143.0,Text Retrieval Conference,TREC,A,https://portal.core.edu.au/conf-ranks/2143/
+2144.0,Unix Symposium on Internet Technologies,USITS,A,https://portal.core.edu.au/conf-ranks/2144/
+2165.0,European Conference on Software Architecture,ECSA,A,https://portal.core.edu.au/conf-ranks/2165/
+2169.0,International Conference on Web and Social Media,ICWSM,A,https://portal.core.edu.au/conf-ranks/2169/
+2175.0,ACM International Conference on Systems for Energy-Efficient Built Environments,BuildSys,A,https://portal.core.edu.au/conf-ranks/2175/
+2176.0,Innovations in Theoretical Computer Science,ITCS,A,https://portal.core.edu.au/conf-ranks/2176/
+2185.0,IEEE European Symposium on Security and Privacy,EuroS&amp;P,A,https://portal.core.edu.au/conf-ranks/2185/
+2258.0,International ACM SIGACCESS Conference on Computers and Accessibility,ASSETS,A,https://portal.core.edu.au/conf-ranks/2258/
+2268.0,International Conference on Learning Analytics and Knowledge,LAK,A,https://portal.core.edu.au/conf-ranks/2268/
+2273.0,International Conference on Learning Representations,ICLR,A*,https://portal.core.edu.au/conf-ranks/2273/
+2280.0,"IEEE International Conference on Software Analysis, Evolution and Reengineering",SANER,A,https://portal.core.edu.au/conf-ranks/2280/
+2281.0,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,SEAMS,A,https://portal.core.edu.au/conf-ranks/2281/
+2310.0,ACM/IEEE International Conference on Human-Robot Interaction,HRI,A,https://portal.core.edu.au/conf-ranks/2310/
