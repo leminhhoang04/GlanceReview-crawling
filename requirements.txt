@@ -1,0 +1,33 @@
+certifi==2025.1.31
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1725560556141/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1735929714516/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography-split_1740893544828/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+Deprecated==1.2.18
+future==1.0.0
+idna==3.10
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1742254787379/work/dist/numpy-2.2.4-cp313-cp313-linux_x86_64.whl#sha256=f76ad032934da2c4719e50abb4142164ac1b039dc18f5fc412a5048a8bade5ae
+openreview-py==1.47.3
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1726878403859/work
+pdfminer.six @ file:///home/conda/feedstock_root/build_artifacts/pdfminer.six_1703854269349/work
+pdfplumber @ file:///home/conda/feedstock_root/build_artifacts/pdfplumber_1735886669036/work
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1735929688808/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
+pycryptodome==3.22.0
+PyJWT==2.10.1
+pylatexenc==2.10
+PyMuPDF @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pymupdf_1742010110/work
+PyPDF2 @ file:///home/conda/feedstock_root/build_artifacts/pypdf2_1735229443413/work
+pypdfium2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pypdfium2_1739979075/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+requests==2.32.3
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+tld==0.13
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
+urllib3==2.3.0
+Wand @ file:///home/conda/feedstock_root/build_artifacts/wand_1661205278277/work
+wrapt==1.17.2

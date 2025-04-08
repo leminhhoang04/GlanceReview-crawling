@@ -22,31 +22,31 @@ for filename in tqdm(conferences_notes, desc="Adjusting conference notes"):
                 #}
                 new_content["title"] = {
                     "value": x["content"]["title"]
-                },
+                }
                 new_content["authors"] = {
                     "value": x["content"].get("authors", [])
-                },
+                }
                 #new_content["authorids"] = {
                 #    "value": x["content"]["authorids"]
-                #},
+                #}
                 new_content["keywords"] = {
                     "value": x["content"].get("keywords", [])
-                },
+                }
                 new_content["TLDR"] = {
                     "value": x["content"].get("TL;DR", "")
-                },
+                }
                 new_content["abstract"] = {
                     "value": x["content"].get("abstract", "")
-                },
+                }
                 new_content["pdf"] = {
                     "value": x["content"]["pdf"]
-                },
+                }
                 #new_content["venue"] = {
                 #    "value": x["content"]["venue"]
-                #},
+                #}
                 #new_content["venueid"] = {
                 #    "value": x["content"]["venueid"]
-                #},
+                #}
                 #new_content["paperhash"] = {
                 #    "value": x["content"]["paperhash"]
                 #}

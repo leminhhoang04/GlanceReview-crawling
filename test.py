@@ -86,23 +86,3 @@ def convert_size(size_bytes):
         size_bytes /= 1024
 
 print(f"Folder size: {convert_size(size_in_bytes)}")
-
-
-
-
-print('#' * 20)
-
-arr = list(os.listdir('pdfs-extract-image/'))
-print("# of crawled pdfs-extract-image:", len(arr))
-
-folder_path = "pdfs-extract-image/"  # Thay đường dẫn thư mục của bạn
-size_in_bytes = get_folder_size(folder_path)
-
-# Chuyển đổi sang đơn vị dễ đọc (KB, MB, GB)
-def convert_size(size_bytes):
-    for unit in ['B', 'KB', 'MB', 'GB', 'TB']:
-        if size_bytes < 1024:
-            return f"{size_bytes:.2f} {unit}"
-        size_bytes /= 1024
-
-print(f"Folder size: {convert_size(size_in_bytes)}")

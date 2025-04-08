@@ -1,4 +1,5 @@
 import openreview
+import requests
 
 class OpenReviewClient:
     def __init__(self, version):
@@ -41,6 +42,12 @@ class OpenReviewClient:
         Get attachment (e.g., PDF) of a note from OpenReview API.
         """
         return self._client.get_attachment(note_id, attachment_name)
+
+    def get_pdf(self, note_id):
+        """
+        Get PDF of a note_id from OpenReview API.
+        """
+        return self._client.get_pdf(note_id)
 
     def _get_client(self, version: int):
         if version == 1:
