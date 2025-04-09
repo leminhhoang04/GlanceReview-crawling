@@ -2,6 +2,21 @@ import os
 import json
 import pandas as pd
 
+
+#import os
+#import zipfile
+#def zip_folder(source_folder, output_zip_file):
+#    with zipfile.ZipFile(output_zip_file, 'w', zipfile.ZIP_DEFLATED) as zipf:
+#        for root, dirs, files in os.walk(source_folder):
+#            for file in files:
+#                filepath = os.path.join(root, file)
+#                # Add file with relative path
+#                arcname = os.path.relpath(filepath, start=source_folder)
+#                zipf.write(filepath, arcname)
+## Example usage:
+#zip_folder('pdfs-extract', '.backup/pdfs-extract.zip')
+#exit(0)
+
 ##################################################
 
 arr = list(os.listdir('conference_notes'))

@@ -8,20 +8,31 @@ Mỗi file có đuôi __v1 hoặc __v2 ứng với đã sử dụng API_v1/v2 kh
 Loại bỏ sự khác nhau của v1 và v2
 Có các giá trị sau: id, forum, invitations, content {title, authors, keywords, TLDR, abstract, pdf}
 
-# pdfs
+# conference_notes_adjust-extracted/
+
+Chỉ giữ lại những note có thể extract thành JSON trong pdfs-extract/
+
+# pdfs/
 
 Hiện tại đã crawl 4035 file pdf ứng với venue "conference_notes/NeurIPS.cc___2024___Conference___v2.json"
 Mỗi file có filename ứng với id của paper (note) tương ứng
 Ví dụ: file "pdfs/5fybcQZ0g4.pdf" là pdf của paper (note) có id là "5fybcQZ0g4"
+
+# pdfs-extract/
+
+Với mỗi pdf trong pdfs/, extract text và table thành JSON
+
 
 # icore-conf-rank.csv và icore-conf-rank-A-A*.csv
 
 chứa dữ liệu của các conference được crawl từ icore
 - có các thông tin: index, conference_name, acronym, rank, url
 
+
 # ranking
 
 Hiện tại chưa gắn ranking tương ứng cho các conference_note, coming soon...
+
 
 # python source codes
 
@@ -43,14 +54,16 @@ Hiện tại chưa gắn ranking tương ứng cho các conference_note, coming 
 - crawl_pdf.py
   + hiện tại chỉ crawl pdf từ `conference_notes/NeurIPS.cc___2024___Conference___v2.json`
   + vậy nên, source code sử dụng mặc định OpenReviewAPI_v2
-- check_corrupt_pdf.py
-  + kiểm tra xem có file pdf nào bị corrupt không
-  + optional
+- crawl_pdfs.py: file này dùng để gọi 'crawl_pdf.py' hàng loạt
+- check_corrupt_pdf.py: kiểm tra xem có file pdf nào bị corrupt không (optional)
 - extract_pdf.py
   + extract các thông tin về text, image, và table của các pdf trong pdfs/
   + output được lưu vào pdfs-extract/
+- extract_pdfs.py: file này dùng để gọi 'extract_pdf.py' hàng loạt
 
 - conference_notes_adjust.py
   + đưa các file `conference_notes/..._v1.json` và `conference_notes/..._v2.json` về cùng format
   + output được lưu vào `conference_notes_adjust/`
   + 735/764
+- conference_notes_adjust-extracted.py
+  + dùng để tạo ra conference_notes_adjust-extracted/

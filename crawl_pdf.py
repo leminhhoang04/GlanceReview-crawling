@@ -1,13 +1,20 @@
 '''
+python crawl_pdf.py --raw_notes conference_notes_adjust/NeurIPS.cc___2024___Workshop___LXAI___v2.json \
+                    --root_dir pdfs/NeurIPS.cc___2024___Workshop___LXAI___v2 \
+                    --api_version 2 --workers 8
+
 python crawl_pdf.py --raw_notes conference_notes_adjust/ICLR.cc___2024___Conference___v2.json \
                     --root_dir pdfs/ICLR.cc___2024___Conference___v2 \
                     --api_version 2 --workers 8
 '''
 import os
 import json
+import time
 import argparse
+import requests
 from tqdm import tqdm
 from multiprocessing import Pool
+from openreview import OpenReviewException
 from openreview_client import OpenReviewClient
 
 def download_pdf(args):
@@ -25,6 +32,12 @@ def download_pdf(args):
                 with open(filepath,'wb') as op: 
                     op.write(f)
                 return 1
+            except OpenReviewException as e:
+                if hasattr(e, 'args') and isinstance(e.args[0], dict):
+                    error_info = e.args[0]
+                    if error_info.get('status') == 403:
+                        print(f"[Attempt {attempt+1}] ❌ HTTP 403 - Access denied for note {note['id']}: {error_info.get('message')}, skipping.")
+                        break  # lỗi HTTP thì không cần retry
             except (requests.exceptions.ChunkedEncodingError,
                     requests.exceptions.ConnectionError,
                     requests.exceptions.RequestException) as e:

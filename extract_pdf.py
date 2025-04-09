@@ -89,14 +89,22 @@ def extract_pdf_info(pdf_path):
     return extracted_data
 
 def process_pdf(args):
-    pdf_name, conference_note_name = args
-    pdf_local_path = f'pdfs/{conference_note_name}/{pdf_name}'
-    pdfname = pdf_name[:-4]
-    result = extract_pdf_info(pdf_local_path)
+    pdf_name_suffix, conference_note_name = args
+    pdfname = pdf_name_suffix[:-4]
+    output_json_path = f"pdfs-extract/{conference_note_name}/{pdfname}.json"
+    if os.path.exists(output_json_path):
+        #print(f"File {output_json_path} already exists. Skipping...")
+        return
+
+    pdf_local_path = f'pdfs/{conference_note_name}/{pdf_name_suffix}'
+    try:
+        result = extract_pdf_info(pdf_local_path)
+    except Exception as e:
+        print(f"❌ Error processing {pdf_local_path}: {e}")
+        return
 
     if len(result["text"]) > 0:
         # Xuất ra file JSON
-        output_json_path = f"pdfs-extract/{conference_note_name}/{pdfname}.json"
         with open(output_json_path, "w", encoding="utf-8", errors="replace") as json_file:
             json.dump(result, json_file, ensure_ascii=False, indent=4)
 
@@ -109,7 +117,7 @@ def main():
     os.makedirs(f'pdfs-extract/{args.conference_note_name}', exist_ok=True)
     pdf_folder = f'pdfs/{args.conference_note_name}'
     pdf_list = [f for f in os.listdir(pdf_folder) if f.endswith('.pdf')]
-    task_args = [(pdf_name, args.conference_note_name) for pdf_name in pdf_list]
+    task_args = [(pdf_name_suffix, args.conference_note_name) for pdf_name_suffix in pdf_list]
 
     with Pool(processes=args.workers) as pool:
         # tqdm kết hợp với pool.imap để theo dõi tiến trình

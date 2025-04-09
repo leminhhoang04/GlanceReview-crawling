@@ -7,6 +7,10 @@ import os
 import subprocess
 import pandas as pd
 
+log_file_path = "logs/crawl_log.txt"
+if os.path.exists(log_file_path):
+    os.remove(log_file_path)
+
 df = pd.read_csv("icore-conf-rank-A-A*.csv", encoding="utf-8")
 unique_acronyms = df['acronym'].dropna().unique().tolist()
 
@@ -21,7 +25,8 @@ for conference in list(os.listdir(conference_notes)):
     api_version = conference[-6]
     workers = '8'
 
-    print(f"Processing conference: {conference} using API version {api_version}")
+    string_info = f"Processing conference: {conference} using API version {api_version}"
+    print(string_info)
     command = [
         'python', 'crawl_pdf.py',
         '--raw_notes', raw_notes,
@@ -29,4 +34,7 @@ for conference in list(os.listdir(conference_notes)):
         '--api_version', api_version,
         '--workers', workers
     ]
-    subprocess.run(command)
+
+    with open(log_file_path, "a") as log_file:
+        subprocess.run(['echo', f'\n{string_info}'], stdout=log_file, stderr=log_file)
+        subprocess.run(command, stdout=log_file, stderr=log_file)

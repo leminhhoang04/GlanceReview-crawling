@@ -1,5 +1,6 @@
 from tqdm import tqdm
 import os
+import glob
 import fitz  # PyMuPDF
 
 pdf_folder = "pdfs"  # Thư mục chứa các file PDF
@@ -15,8 +16,10 @@ def is_pdf_corrupt(pdf_path):
 
 # Kiểm tra toàn bộ file PDF trong thư mục
 corrupt_files = []
-for i, pdf_file in tqdm(enumerate(os.listdir(pdf_folder)), total=len(os.listdir(pdf_folder)), desc="Kiểm tra file PDF"):
-    pdf_path = os.path.join(pdf_folder, pdf_file)
+pdf_glob = glob.glob(os.path.join(pdf_folder, "*/*.pdf"))
+print(len(pdf_glob), "file PDF trong thư mục", pdf_folder)
+for i, pdf_file in tqdm(enumerate(pdf_glob), total=len(pdf_glob), desc="Kiểm tra file PDF"):
+    pdf_path = pdf_file
     if is_pdf_corrupt(pdf_path):
         corrupt_files.append(pdf_file)
 
