@@ -12,6 +12,10 @@ Có các giá trị sau: id, forum, invitations, content {title, authors, keywor
 
 Chỉ giữ lại những note có thể extract thành JSON trong pdfs-extract/
 
+# conference_notes_adjust-final/
+
+thêm attributes: "pdf-public" và "is_accepted"
+
 # pdfs/
 
 Hiện tại đã crawl 4035 file pdf ứng với venue "conference_notes/NeurIPS.cc___2024___Conference___v2.json"
@@ -22,6 +26,10 @@ Ví dụ: file "pdfs/5fybcQZ0g4.pdf" là pdf của paper (note) có id là "5fyb
 
 Với mỗi pdf trong pdfs/, extract text và table thành JSON
 
+# pdf-extract-final/
+
+Bỏ "table", tách "text" thành "text", "references", và "appendix"
+
 
 # icore-conf-rank.csv và icore-conf-rank-A-A*.csv
 
@@ -29,9 +37,14 @@ chứa dữ liệu của các conference được crawl từ icore
 - có các thông tin: index, conference_name, acronym, rank, url
 
 
-# ranking
+# ranking: icore-conf-to-rank.csv
 
-Hiện tại chưa gắn ranking tương ứng cho các conference_note, coming soon...
+conference_name,acronym,rank
+aclweb.org___ACL___ARR___2021___November___v1,ACL,A*
+icaps-conference.org___ICAPS___2019___Workshop___WIPC___v1,ICAPS,A*
+...
+NeurIPS.cc___2022___Workshop___DistShift___v1,NeurIPS,A*
+ICLR.cc___2025___Workshop___MCDC___v2,ICLR,A*
 
 
 # python source codes
@@ -42,6 +55,7 @@ Hiện tại chưa gắn ranking tương ứng cho các conference_note, coming 
 - get_icore_conference_rank_filter.py
   + filter các conference rank A/A*
   + output được lưu vào `icore-conf-rank-A-A*.csv`
+- assign_ranking.py: output được lưu vào `icore-conf-to-rank.csv`
 
 - openreview_client.py: cung cấp `class OpenReviewClient`
 - get_all_venues.py:
@@ -60,10 +74,11 @@ Hiện tại chưa gắn ranking tương ứng cho các conference_note, coming 
   + extract các thông tin về text, image, và table của các pdf trong pdfs/
   + output được lưu vào pdfs-extract/
 - extract_pdfs.py: file này dùng để gọi 'extract_pdf.py' hàng loạt
+- finalize_pdf_extract.py: dùng để tạo ra  pdf-extract-final/
 
 - conference_notes_adjust.py
   + đưa các file `conference_notes/..._v1.json` và `conference_notes/..._v2.json` về cùng format
   + output được lưu vào `conference_notes_adjust/`
   + 735/764
-- conference_notes_adjust-extracted.py
-  + dùng để tạo ra conference_notes_adjust-extracted/
+- conference_notes_adjust-extracted.py: dùng để tạo ra conference_notes_adjust-extracted/
+- finalize_conference_notes.py: dùng để tạo ra conference_notes_adjust-final/
