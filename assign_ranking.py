@@ -28,11 +28,20 @@ for conference_notes_name in conference_notes_list:
 d['roboticsfoundation.org___RSS___2024___Workshop___DM___v2'] = (1961, 'RSS', 'TBR')
 
 
+def get_year(conference_name: str) -> int | None:
+    matches = [(m.start(), m.group()) for m in re.finditer(r'20\d{2}', conference_name)]
+    if len(matches) != 1:
+        print(conference_name, matches)
+        return None
+    _, number = matches[0]
+    return int(number)
+
 with open('icore-conf-to-rank.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
     # Ghi tiêu đề (header)
-    writer.writerow(['conference_name', 'acronym', 'rank'])
+    writer.writerow(['conference_name', 'year', 'acronym', 'rank'])
     # Duyệt qua dict và ghi vào CSV
     for conference_name, (id, acronym, rank) in d.items():
-        writer.writerow([conference_name, acronym, rank])
+        year = get_year(conference_name)
+        writer.writerow([conference_name, year, acronym, rank])
 print("Done")
