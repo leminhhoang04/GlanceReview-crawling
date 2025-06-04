@@ -65,9 +65,7 @@ ICLR.cc___2025___Workshop___MCDC___v2,ICLR,A*
   + sử dụng `class OpenReviewClient`, request conference_notes của các venues trong `venues.json` qua OpenReviewAPI
   + output được lưu vào conference_notes/ folder
 
-- crawl_pdf.py
-  + hiện tại chỉ crawl pdf từ `conference_notes/NeurIPS.cc___2024___Conference___v2.json`
-  + vậy nên, source code sử dụng mặc định OpenReviewAPI_v2
+- crawl_pdf.py: crawl pdf của các paper trong một conference note
 - crawl_pdfs.py: file này dùng để gọi 'crawl_pdf.py' hàng loạt
 - check_corrupt_pdf.py: kiểm tra xem có file pdf nào bị corrupt không (optional)
 - extract_pdf.py
@@ -82,3 +80,6 @@ ICLR.cc___2025___Workshop___MCDC___v2,ICLR,A*
   + 735/764
 - conference_notes_adjust-extracted.py: dùng để tạo ra conference_notes_adjust-extracted/
 - finalize_conference_notes.py: dùng để tạo ra conference_notes_adjust-final/
+
+- crawl citation information từ https://colab.research.google.com/drive/14rgrxcRAAILKXhJNAM-3qBE8lYTEac6s
+- merge_citation_text.py: merge papers và citation crawl từ SemanticScholar thành các file JSON, mỗi JSON ứng với một paper
